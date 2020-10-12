@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="src/assets/images/logo-interna.svg" alt="GoBarber" width="90">
+  <img src="https://raw.githubusercontent.com/carvalhobfr/gobarber/a00dc52bfa44d02d0b1040681852832ebd9fa509/src/assets/images/logo-interna.svg" alt="GoBarber" width="90">
 <br>
 <br>
 GoBarber
