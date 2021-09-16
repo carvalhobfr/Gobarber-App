@@ -43,7 +43,7 @@ yarn queue
 
 ## Criado por:
 
- Matheus Carvalho – [@Matheus](https://www.linkedin.com/in/matheusrcarvalho/) – Matheusrato.0@hotmail.com
+ Matheus Carvalho – [@Matheus](https://www.linkedin.com/in/matheusrcarvalho/)
 
 
 ## Contributing
